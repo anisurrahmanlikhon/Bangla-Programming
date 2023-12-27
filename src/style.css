@@ -1,5 +1,5 @@
 :root {
-  color-scheme: light;
+  color-scheme: dark;
 }
 body {
   margin: 0;
@@ -141,10 +141,7 @@ body {
     height: 60vh;
     margin: 0;
     padding: 0;
-    background-color: white;
-  color: black;
-
-  }
+}
 
   #terminal {
     height: 35vh;
