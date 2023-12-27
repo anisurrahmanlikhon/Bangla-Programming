@@ -1,12 +1,12 @@
 
 		
-		function convertToBangla() {
+		function BanglaCode() {
 			const banglaCode = document.getElementById('banglaCode').value;
 			const convertedCode = translateToC(banglaCode);
 			document.getElementById('convertedCode').innerText = convertedCode;
 		}
 
-		function translateToC(banglaCode) {
+		function BanglaSyntax(banglaCode) {
 			// Replace Bangla keywords with corresponding C keywords
 			const mapping = {
 				
