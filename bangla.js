@@ -1,6 +1,6 @@
 
 		
-		function convertToC() {
+		function convertToBangla() {
 			const banglaCode = document.getElementById('banglaCode').value;
 			const convertedCode = translateToC(banglaCode);
 			document.getElementById('convertedCode').innerText = convertedCode;
@@ -9,31 +9,8 @@
 		function translateToC(banglaCode) {
 			// Replace Bangla keywords with corresponding C keywords
 			const mapping = {
-				'# অন্তর্ভুক্ত': '#include',
-				'# ডিফাইন': '#define',
-				'< স্ট্যান্ডার্ড_ইন_আউট.হেডার >': '<stdio.h>',
-				'< স্ট্যান্ডার্ড_লাইব্রেরি.হেডার >': '<stdlib.h>',
-				'< গণিত.হেডার >': '<math.h>',
-				'< স্ট্রিং.হেডার >': '<string.h>',
-				'< স্ট্যান্ডার্ড_বুলিয়ান.হেডার >': '<stdbool.h>',
-
-				'মৌলিক': 'main',
-				'নাও': 'scanf',
-				'দেখাও': 'printf',
-				'ফেরত': 'return',
-
-				'০': '0',
-				'১': '1',
-				'২': '2',
-				'৩': '3',
-				'৪': '4',
-				'৫': '5',
-				'৬': '6',
-				'৭': '7',
-				'৮': '8',
-				'৯': '9',
-
-				'পূর্ণ': 'int',
+				
+				'ধরি': 'int',
 				'দশম': 'float',
 				'বর্ণ': 'char',
 				'ডাবল': 'double',
