@@ -4,10 +4,10 @@ interface syntaxMap {
 export const syntaxMap: syntaxMap = {
   ধরি: "let",
   কাজ: "function",
-  যতক্ষণ: "while",
+  অব্দি: "while",
   যদি: "if",
   নাহলে: "else",
   "নাহলে যদি": "else if",
-  ফেরত: "return",
+  ফল: "return",
   লুপ: "for",
 };
