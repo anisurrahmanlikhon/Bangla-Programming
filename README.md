@@ -84,6 +84,7 @@
 
 ### বলো কাজ
 ```Python
+// Speak in English
 বলো ('How are you');
 
 //শুধু ইংরেজি ভাষা বলতে পারবে
