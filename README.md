@@ -82,7 +82,7 @@
 লিখি (লিখন)
 ```
 
-### বলো কাজ
+### কথা বলো ফাংশন
 ```Python
 // Speak in English
 বলো ('How are you');
