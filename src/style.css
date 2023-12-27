@@ -64,7 +64,7 @@ body {
   padding: 1rem;
   font-family: "Courier New", monospace;
   overflow: scroll;
-  font-size: large;
+  font-size: 15px;
 }
 #editor {
   width: 48vw;
