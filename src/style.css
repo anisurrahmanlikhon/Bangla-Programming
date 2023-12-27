@@ -32,7 +32,7 @@ body {
       text-decoration: none;
       font-weight: bold;
       font-family: sans-serif;
-      color: aqua;
+      color: white;
       padding: 4px;
       &:hover {
         scale: 1.1;
