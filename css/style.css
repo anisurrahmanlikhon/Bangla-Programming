@@ -60,11 +60,11 @@ body {
   width: 50vw;
   height: 92vh;
   background-color: black;
-  color: white;
+  color:limegreen;
   padding: 1rem;
   font-family: "Courier New", monospace;
   overflow: scroll;
-  font-size: large;
+  font-size: 16px;
 }
 #editor {
   width: 48vw;
