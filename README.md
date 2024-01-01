@@ -2,7 +2,6 @@
 ## ডকুমেন্টেশন
 
 ### ভেরিয়েবল ডিক্লেয়ারেশন 
-
 ```Python
 // Variable Declaration with input & ouput
 ধরি নাম = ইনপুট ('তোমার নাম লিখো')
