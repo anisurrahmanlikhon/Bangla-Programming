@@ -4,7 +4,7 @@
 ### ভেরিয়েবল ডিক্লেয়ারেশন 
 
 ```Python
-// Variable Declaration with input
+// Variable Declaration with input & ouput
 ধরি নাম = ইনপুট ('তোমার নাম লিখো')
 ধরি বয়স = ইনপুট ('তোমার বয়স লিখো')
 লিখি(নাম + " এর বয়স " + বয়স);
